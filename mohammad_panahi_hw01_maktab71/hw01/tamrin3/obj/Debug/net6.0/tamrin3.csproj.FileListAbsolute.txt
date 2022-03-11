@@ -1,0 +1,15 @@
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.csproj.AssemblyReference.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.AssemblyInfoInputs.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.AssemblyInfo.cs
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.csproj.CoreCompileInputs.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\bin\Debug\net6.0\tamrin3.exe
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\bin\Debug\net6.0\tamrin3.deps.json
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\bin\Debug\net6.0\tamrin3.runtimeconfig.json
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\bin\Debug\net6.0\tamrin3.dll
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\bin\Debug\net6.0\tamrin3.pdb
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.dll
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\refint\tamrin3.dll
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.pdb
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\tamrin3.genruntimeconfig.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tamrin3\obj\Debug\net6.0\ref\tamrin3.dll

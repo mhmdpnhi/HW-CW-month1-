@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jame2Array2Bodi/1.0.0": {
+        "runtime": {
+          "jame2Array2Bodi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jame2Array2Bodi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

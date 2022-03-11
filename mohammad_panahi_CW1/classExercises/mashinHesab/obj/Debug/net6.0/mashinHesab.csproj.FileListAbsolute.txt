@@ -1,0 +1,15 @@
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\bin\Debug\net6.0\mashinHesab.exe
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\bin\Debug\net6.0\mashinHesab.deps.json
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\bin\Debug\net6.0\mashinHesab.runtimeconfig.json
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\bin\Debug\net6.0\mashinHesab.dll
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\bin\Debug\net6.0\mashinHesab.pdb
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.csproj.AssemblyReference.cache
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.AssemblyInfoInputs.cache
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.AssemblyInfo.cs
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.csproj.CoreCompileInputs.cache
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.dll
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\refint\mashinHesab.dll
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.pdb
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\mashinHesab.genruntimeconfig.cache
+E:\mohammad_panahi_CW1\classExercises\mashinHesab\obj\Debug\net6.0\ref\mashinHesab.dll

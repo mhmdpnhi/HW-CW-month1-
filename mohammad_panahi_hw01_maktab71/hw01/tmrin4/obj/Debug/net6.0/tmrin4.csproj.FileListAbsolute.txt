@@ -1,0 +1,15 @@
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\bin\Debug\net6.0\tmrin4.exe
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\bin\Debug\net6.0\tmrin4.deps.json
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\bin\Debug\net6.0\tmrin4.runtimeconfig.json
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\bin\Debug\net6.0\tmrin4.dll
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\bin\Debug\net6.0\tmrin4.pdb
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.csproj.AssemblyReference.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.AssemblyInfoInputs.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.AssemblyInfo.cs
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.csproj.CoreCompileInputs.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.dll
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\refint\tmrin4.dll
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.pdb
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\tmrin4.genruntimeconfig.cache
+E:\mohammad_panahi_hw01_maktab71\hw01\tmrin4\obj\Debug\net6.0\ref\tmrin4.dll

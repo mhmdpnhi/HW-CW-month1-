@@ -1,0 +1,15 @@
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\bin\Debug\net6.0\jame2Array2Bodi.exe
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\bin\Debug\net6.0\jame2Array2Bodi.deps.json
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\bin\Debug\net6.0\jame2Array2Bodi.runtimeconfig.json
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\bin\Debug\net6.0\jame2Array2Bodi.dll
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\bin\Debug\net6.0\jame2Array2Bodi.pdb
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.csproj.AssemblyReference.cache
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.AssemblyInfoInputs.cache
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.AssemblyInfo.cs
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.csproj.CoreCompileInputs.cache
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.dll
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\refint\jame2Array2Bodi.dll
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.pdb
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\jame2Array2Bodi.genruntimeconfig.cache
+E:\mohammad_panahi_CW1\classExercises\jame2Array2Bodi\obj\Debug\net6.0\ref\jame2Array2Bodi.dll

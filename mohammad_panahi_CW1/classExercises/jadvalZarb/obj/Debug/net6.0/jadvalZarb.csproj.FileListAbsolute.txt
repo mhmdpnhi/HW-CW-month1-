@@ -1,0 +1,15 @@
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\bin\Debug\net6.0\jadvalZarb.exe
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\bin\Debug\net6.0\jadvalZarb.deps.json
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\bin\Debug\net6.0\jadvalZarb.runtimeconfig.json
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\bin\Debug\net6.0\jadvalZarb.dll
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\bin\Debug\net6.0\jadvalZarb.pdb
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.csproj.AssemblyReference.cache
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.AssemblyInfoInputs.cache
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.AssemblyInfo.cs
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.csproj.CoreCompileInputs.cache
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.dll
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\refint\jadvalZarb.dll
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.pdb
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\jadvalZarb.genruntimeconfig.cache
+E:\mohammad_panahi_CW1\classExercises\jadvalZarb\obj\Debug\net6.0\ref\jadvalZarb.dll

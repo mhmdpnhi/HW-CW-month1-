@@ -1,0 +1,15 @@
+E:\mohammad_Panahi_HW02\HW02\test\bin\Debug\net6.0\test.exe
+E:\mohammad_Panahi_HW02\HW02\test\bin\Debug\net6.0\test.deps.json
+E:\mohammad_Panahi_HW02\HW02\test\bin\Debug\net6.0\test.runtimeconfig.json
+E:\mohammad_Panahi_HW02\HW02\test\bin\Debug\net6.0\test.dll
+E:\mohammad_Panahi_HW02\HW02\test\bin\Debug\net6.0\test.pdb
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.dll
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\refint\test.dll
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.pdb
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+E:\mohammad_Panahi_HW02\HW02\test\obj\Debug\net6.0\ref\test.dll

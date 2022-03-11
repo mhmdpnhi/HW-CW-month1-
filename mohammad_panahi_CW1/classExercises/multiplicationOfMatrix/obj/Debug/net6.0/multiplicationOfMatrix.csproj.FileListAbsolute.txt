@@ -1,0 +1,15 @@
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\bin\Debug\net6.0\multiplicationOfMatrix.exe
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\bin\Debug\net6.0\multiplicationOfMatrix.deps.json
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\bin\Debug\net6.0\multiplicationOfMatrix.runtimeconfig.json
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\bin\Debug\net6.0\multiplicationOfMatrix.dll
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\bin\Debug\net6.0\multiplicationOfMatrix.pdb
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.csproj.AssemblyReference.cache
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.AssemblyInfoInputs.cache
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.AssemblyInfo.cs
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.csproj.CoreCompileInputs.cache
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.dll
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\refint\multiplicationOfMatrix.dll
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.pdb
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\multiplicationOfMatrix.genruntimeconfig.cache
+E:\mohammad_panahi_CW1\classExercises\multiplicationOfMatrix\obj\Debug\net6.0\ref\multiplicationOfMatrix.dll

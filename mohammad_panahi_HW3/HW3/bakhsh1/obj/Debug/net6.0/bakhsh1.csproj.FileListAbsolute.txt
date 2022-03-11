@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.AssemblyInfo.cs
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\bin\Debug\net6.0\bakhsh1.exe
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\bin\Debug\net6.0\bakhsh1.deps.json
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\bin\Debug\net6.0\bakhsh1.runtimeconfig.json
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\bin\Debug\net6.0\bakhsh1.dll
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\bin\Debug\net6.0\bakhsh1.pdb
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.dll
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\refint\bakhsh1.dll
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.pdb
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\bakhsh1.genruntimeconfig.cache
+C:\Users\ThinkPad\Desktop\mohammad_panahi_HW3\HW3\bakhsh1\obj\Debug\net6.0\ref\bakhsh1.dll
