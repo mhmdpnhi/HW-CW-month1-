@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{2C88466D-6FD3-4C28-8112-2CA614FE5D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrin01_sakhtFile", "tamrin01_sakhtFile\tamrin01_sakhtFile.csproj", "{D1E8A46E-C39C-4837-B1D4-848D320C1710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrin02_forLoop", "tamrin02_forLoop\tamrin02_forLoop.csproj", "{11D7EBF0-9D49-49D9-BA9C-A606AE9FE283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrin03_CSVFile", "tamrin03_CSVFile\tamrin03_CSVFile.csproj", "{EBC7F5FD-7C7D-44F4-BC1C-1FE205FCA6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrin04_copy", "tamrin4_copy\tamrin04_copy.csproj", "{B3AB7FD5-958E-477B-AAFC-15138C17874D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrin05_replace", "tamrin05_replace\tamrin05_replace.csproj", "{7FDF26A3-5434-44D1-AFE1-7CC92C21E82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrin06_CSVDiresFiles", "tamrin06_CSVDiresFiles\tamrin06_CSVDiresFiles.csproj", "{DFF6B37A-5E18-470F-A03A-348B22FB3A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C88466D-6FD3-4C28-8112-2CA614FE5D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C88466D-6FD3-4C28-8112-2CA614FE5D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C88466D-6FD3-4C28-8112-2CA614FE5D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C88466D-6FD3-4C28-8112-2CA614FE5D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E8A46E-C39C-4837-B1D4-848D320C1710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E8A46E-C39C-4837-B1D4-848D320C1710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E8A46E-C39C-4837-B1D4-848D320C1710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E8A46E-C39C-4837-B1D4-848D320C1710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D7EBF0-9D49-49D9-BA9C-A606AE9FE283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D7EBF0-9D49-49D9-BA9C-A606AE9FE283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D7EBF0-9D49-49D9-BA9C-A606AE9FE283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D7EBF0-9D49-49D9-BA9C-A606AE9FE283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC7F5FD-7C7D-44F4-BC1C-1FE205FCA6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC7F5FD-7C7D-44F4-BC1C-1FE205FCA6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC7F5FD-7C7D-44F4-BC1C-1FE205FCA6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC7F5FD-7C7D-44F4-BC1C-1FE205FCA6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AB7FD5-958E-477B-AAFC-15138C17874D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AB7FD5-958E-477B-AAFC-15138C17874D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AB7FD5-958E-477B-AAFC-15138C17874D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AB7FD5-958E-477B-AAFC-15138C17874D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDF26A3-5434-44D1-AFE1-7CC92C21E82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDF26A3-5434-44D1-AFE1-7CC92C21E82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDF26A3-5434-44D1-AFE1-7CC92C21E82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDF26A3-5434-44D1-AFE1-7CC92C21E82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF6B37A-5E18-470F-A03A-348B22FB3A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF6B37A-5E18-470F-A03A-348B22FB3A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF6B37A-5E18-470F-A03A-348B22FB3A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF6B37A-5E18-470F-A03A-348B22FB3A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E219AF-5612-479E-8778-74E4A1DA7733}
+	EndGlobalSection
+EndGlobal
